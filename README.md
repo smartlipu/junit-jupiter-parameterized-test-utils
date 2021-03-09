@@ -3,4 +3,4 @@
  
 
 ### ArgumentConverter 
-- **StringToListArgumentConverter**: Junit Jupiter Parameterized Test does not support List type conversion from CsvSource Arguments.
+- **StringToListArgumentConverter**: Junit Jupiter Parameterized Test does not support List type conversion from CsvSource Arguments. Converts ";" seperated value into list.
